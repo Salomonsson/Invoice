@@ -1,0 +1,15 @@
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\bin\Debug\Invoice_Maker.exe.config
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\bin\Debug\Invoice_Maker.exe
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\bin\Debug\Invoice_Maker.pdb
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker.csprojResolveAssemblyReference.cache
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\MainWindow.baml
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\MainWindow.g.cs
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\App.g.cs
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker_MarkupCompile.cache
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker.g.resources
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker.Properties.Resources.resources
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker.csproj.GenerateResource.Cache
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker.exe
+c:\users\psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker.pdb
+C:\Users\Psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Psylon\documents\visual studio 2013\Projects\Invoice_Maker\Invoice_Maker\obj\Debug\Invoice_Maker_MarkupCompile.lref
